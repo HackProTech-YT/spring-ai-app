@@ -1,4 +1,4 @@
-package com.hackprotech.myaiapp.modelproviders.ollama;
+package com.vengatx.myaiapp.modelproviders.ollama;
 
 import org.springframework.ai.ollama.OllamaChatModel;
 import org.springframework.ai.ollama.api.OllamaApi;
